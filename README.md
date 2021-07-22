@@ -1,1 +1,1 @@
-# Numeric-Ana.-Codes
+# Numerik-Analiz Ders Kodları
