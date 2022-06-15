@@ -1,1 +1,1 @@
-# Numerik-Analiz Ders Kodları
+# Sayısal Analiz Yöntemleri
